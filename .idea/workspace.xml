@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86e03514-0628-457e-a2d1-71c885d73ad1" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1t4IUeLkFNgk9TIIG58Ql5qli4d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\VSTU\VSRPP\spring-boot-data-jpa-mysql-master\src\main\java\com\bezkoder\spring\datajpa" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bezkoder.spring.datajpa.controller" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rgr.spring.datajpa.controller" />
+      <recent name="com.rgr.spring.datajpa.repository" />
+      <recent name="com.rgr.spring.datajpa.model" />
+      <recent name="com.bezkoder.spring.datajpa.repository" />
+      <recent name="com.bezkoder.spring.datajpa.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootDataJpaApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rgr.spring.datajpa.SpringBootDataJpaApplication" />
+      <module name="spring-boot-data-jpa" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86e03514-0628-457e-a2d1-71c885d73ad1" name="Default Changelist" comment="" />
+      <created>1622021956003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622021956003</updated>
+      <workItem from="1622021963748" duration="1828000" />
+      <workItem from="1622028712592" duration="9927000" />
+      <workItem from="1622054917639" duration="1000" />
+      <workItem from="1622132747552" duration="5498000" />
+      <workItem from="1622138419709" duration="1599000" />
+      <workItem from="1622141020928" duration="525000" />
+      <workItem from="1622141635518" duration="2099000" />
+      <workItem from="1622145445172" duration="2475000" />
+      <workItem from="1622191739589" duration="3347000" />
+      <workItem from="1622209781895" duration="1102000" />
+      <workItem from="1622214673249" duration="61000" />
+      <workItem from="1622214766419" duration="8000" />
+      <workItem from="1622214818709" duration="72000" />
+      <workItem from="1622214924076" duration="195000" />
+      <workItem from="1622215145947" duration="2463000" />
+      <workItem from="1622217753512" duration="414000" />
+      <workItem from="1622218404176" duration="323000" />
+      <workItem from="1622218796361" duration="13000" />
+      <workItem from="1622218855072" duration="20000" />
+      <workItem from="1622218919802" duration="2846000" />
+      <workItem from="1622266918454" duration="1659000" />
+      <workItem from="1622268727285" duration="7636000" />
+      <workItem from="1622279473225" duration="44000" />
+      <workItem from="1622279569103" duration="2267000" />
+      <workItem from="1622281876360" duration="5599000" />
+      <workItem from="1622296317949" duration="147000" />
+      <workItem from="1622296852709" duration="915000" />
+      <workItem from="1622371665352" duration="1072000" />
+      <workItem from="1622384477708" duration="822000" />
+      <workItem from="1622385385559" duration="67000" />
+      <workItem from="1622385531907" duration="123000" />
+      <workItem from="1622385772609" duration="215000" />
+      <workItem from="1622386059012" duration="112000" />
+      <workItem from="1622386286708" duration="474000" />
+      <workItem from="1622387657435" duration="365000" />
+      <workItem from="1622388100419" duration="86000" />
+      <workItem from="1622388281909" duration="31000" />
+      <workItem from="1622388398911" duration="217000" />
+    </task>
+    <task id="LOCAL-00001" summary="велла тестит">
+      <created>1622214328903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622214328903</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1622215233664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622215233664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2">
+      <created>1622215386732</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622215386732</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3">
+      <created>1622215592897</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622215592897</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4">
+      <created>1622216797119</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622216797119</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5">
+      <created>1622216963802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622216963802</updated>
+    </task>
+    <task id="LOCAL-00007" summary="o">
+      <created>1622219086199</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622219086199</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1622228134712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622228134712</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2">
+      <created>1622276201375</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622276201375</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1">
+      <created>1622386489112</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622386489112</updated>
+    </task>
+    <task id="LOCAL-00011" summary="11">
+      <created>1622387797183</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622387797183</updated>
+    </task>
+    <task id="LOCAL-00012" summary="1">
+      <created>1622388168513</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622388168519</updated>
+    </task>
+    <task id="LOCAL-00013" summary="1">
+      <created>1622388479651</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1622388479651</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="велла тестит" />
+    <MESSAGE value="3" />
+    <MESSAGE value="4" />
+    <MESSAGE value="5" />
+    <MESSAGE value="o" />
+    <MESSAGE value="2" />
+    <MESSAGE value="11" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
